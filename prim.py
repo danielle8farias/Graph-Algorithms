@@ -1,6 +1,3 @@
-# Seja v a quantidade de vértices do grafo. Então, a complexidade do algoritmo abaixo é de O(v²)
-
-
 def criar_matriz(n_linhas, n_colunas, valor):  # Cria uma matriz
     matriz = []
     for i in range(n_linhas):
