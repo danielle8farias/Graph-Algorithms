@@ -1,5 +1,3 @@
-# Seja v a quantidade de vértices do grafo. Então, a complexidade do algoritmo abaixo é de O(v³)
-
 def criar_matriz_adjacencia(arquivo):  # Função que lê o arquivo e adiciona a matriz de adjacência dada a uma matriz
     input = open(arquivo, "r")
     matriz_adjacencia = []
